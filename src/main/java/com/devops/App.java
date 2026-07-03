@@ -2,6 +2,6 @@ package com.devops;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Welcome to CI/CD DevOps Project");
+        System.out.println("Welcome to nmit solutions");
     }
 }
